@@ -52,6 +52,11 @@ Step 3: Installed Python IDE.
 Step 4: Installed necessary Libraries and Packages
 
 TASK 5
+Step 1: Visted https://dev.mysql.com/downloads/windows/installer/5.7.html to download MySQL
+Step 2: MySQL - Run the downloaded MySQL installer.
+Step 3: Started MySQL Server.
+Step 4: Verified MySQL Installation on Terminal.
+
 
 
 
