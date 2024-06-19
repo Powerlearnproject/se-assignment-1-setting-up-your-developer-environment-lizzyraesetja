@@ -37,4 +37,10 @@ Step 5: Once the installation is complete, i opened the VS Code and set other se
 
 TASK 3 :SETTING UP GITHUB
 
-
+Step 1: I installed Git on both my smartphone and laptop.
+Step 2: I Configure Git on my laptop and smartphone,and set up my username and email address.
+Step 3: I then Verify your email address and set up your profile.
+Step 4: Initialized a Git repository for my project.
+Step 5: Added my project files.
+Step 6: Commit your changes to the repository.
+Step 8: Pushed the work done to GitHub and add the GitHub repository as a remote to my local repository.
